@@ -1,0 +1,8 @@
+합계 36
+drwxrwxr-x 2 ubuntu ubuntu  4096  4월  3 02:35 .
+drwxrwxr-x 6 ubuntu ubuntu  4096  4월  3 02:34 ..
+-rw-rw-r-- 1 ubuntu ubuntu   622  4월  3 02:24 fd_seri.c
+-rwxrwxr-x 1 ubuntu ubuntu 16912  4월  3 02:24 fds
+-rw-rw-r-- 1 ubuntu ubuntu    33  4월  3 02:34 ls.output
+-rw-rw-r-- 1 ubuntu ubuntu     0  4월  3 02:35 lsal.output
+---------- 1 ubuntu ubuntu     0  4월  3 02:27 test.dat
